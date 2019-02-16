@@ -1,0 +1,63 @@
+p {
+     font-family: "Lucida Console";
+     font-size: 20px;
+     color: Turquoise ;	
+     text-align: center;
+}
+
+
+body {
+   background-image: url("back.jpg");
+   background-repeat: repeat;
+   background-size: contain;
+}
+
+img {
+  
+    margin: auto;
+    border-style: groove;
+    border-width: medium;
+    border-color: plum;
+}
+
+h1 {font-family: "Courier New";
+     font-size: 50px;
+     color: Turquoise  ;	
+     text-align: center;
+     border-style: outset;
+     border-color: plum;
+}
+
+h2 {font-family: "Courier New";
+     font-size: 30px;
+     color: Turquoise  ;	
+     text-align: center;
+     border-style: outset;
+     border-color: plum;
+}
+
+h4
+{font-family: "Courier New";
+     font-size: 30px;
+     color: Turquoise  ;	
+     text-align: center;
+     border-style: outset;
+     border-color: plum;
+}
+
+ul {font-family: "Courier New";
+     font-size: 20px;
+     color: Turquoise  ;	
+     text-align: center;
+}
+
+a:link, a:visited {
+    color: plum ;
+  }
+
+h3 {text-align: center;
+    display: block;
+    margin: auto;}
+
+h2 {font-family: "Lucida Console";
+     font-size: 30px;}
